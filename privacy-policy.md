@@ -91,4 +91,4 @@ We may update this policy from time to time. Updates will be reflected by the "L
 
 ## Contact
 
-For questions or data deletion requests, contact: **supabase@novashots.xyz**
+For questions or data deletion requests, contact: **admin@zillahnet.com**
