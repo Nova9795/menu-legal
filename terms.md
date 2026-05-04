@@ -67,4 +67,4 @@ We may update these terms at any time. Continued use of the app after changes co
 
 ## 10. Contact
 
-For questions about these terms, contact: **supabase@novashots.xyz**
+For questions about these terms, contact: **admin@zillahnet.com**
